@@ -17,16 +17,29 @@ A Colorado Board of Elctions employee has given you the following tasks to compl
 The analysis of the election show that:
 - There were "x" votes cast in the election
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+  - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+  - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 - The winner of the election was:
-  - Candidate (1, 2, or 3) received "x%" of the vote and "y" number of votes.
+  - Diana DeGette received "73.8%" of the vote and "272,892" number of vote.
  
 ## Challenge Overview
+The objective of the Challenge was to provide the Election Commission some additional data to complete audit an audit that they have been carrying out:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+The results from the above investigation were to be provided as follows:
+- Deliverable 1: The Election Results Printed to the Command Line
+- Deliverable 2: The Election Results Saved to a Text File
+- Deliverable 3: A written Analysis of the Election Audit (README.md)
+
+### Election Audit Results
+#### Deliverable 1
+The following 
 
 ## Challenge Summary
