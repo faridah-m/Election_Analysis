@@ -40,6 +40,14 @@ The results from the above investigation were to be provided as follows:
 
 ### Election Audit Results
 #### Deliverable 1
-The following 
+The following Election results were obtained from the VS Studio Code Command Line:
+![Image](https://github.com/faridah-m/Election_Analysis/blob/main/Delieverable_1_CommmandLine.PNG)
 
-## Challenge Summary
+#### Deliverable 2
+The following Election results were written to the Election Analysis Text File:
+![Image](https://github.com/faridah-m/Election_Analysis/blob/main/Deliverable_2_TXTFile.PNG)
+
+### Election Audit Summary
+The script that we used to produce the above results is a highly versatile script that can be re-factored and used to produce additional information as required:
+- To use this script for another election, we would need to provide a new Election_Results.csv file that has the columns: Ballot ID, County and Candidate. Once this file is entered as input, the script will read the new file and use the same logic as in the current file to provide fresh output with little to no modification.
+
